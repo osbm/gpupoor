@@ -1,3 +1,3 @@
-# 
+A nice prank on the GPU-poor friends.
 
-test first on docker
+![Alt text](assets/image.png)
