@@ -1,0 +1,4 @@
+gpupoor.egg-info
+.venv
+*.pyc
+build

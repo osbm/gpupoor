@@ -1,0 +1,16 @@
+[project]
+name = "gpupoor"
+version = "0.0.1"
+description = "A false nvidia-smi output generator"
+license = { file = "LICENSE" }
+authors = [
+    { name = "osbm" }
+]
+
+[project.urls]
+homepage = "https://github.com/osbm/gpupoor"
+repository = "https://github.com/osbm/gpupoor"
+
+[project.scripts]
+nvidia-smi = "gpupoor.nvidia_smi:main"
+
